@@ -42,3 +42,25 @@ Image of Code:
 
 <img width="383" alt="Screen Shot 2022-10-27 at 7 24 37 PM" src="https://user-images.githubusercontent.com/111096384/198416330-2f97bd5e-1798-4d0e-971e-dbead4db75bf.png">
 
+# Deliverable 2
+## Overview of Project: Explain the purpose of this analysis.
+The overall purpose of this project is to enhace the webpage capabilities by adding filters with multiple factors. 
+D3 functionality makes an instance listener for multiple changes and displaying the required datasets on the result table. 
+## Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+Below are detailed steps outlining how to use the new webpage and filter per the criteria:
+Homepage of our website: 
+<img width="1414" alt="Screen Shot 2022-10-27 at 7 37 18 PM" src="https://user-images.githubusercontent.com/111096384/198417529-74bd4b68-3fa8-4b70-ad8f-5a9722362bfe.png">
+
+Navigate to the filtering table 
+<img width="1420" alt="Screen Shot 2022-10-27 at 7 37 46 PM" src="https://user-images.githubusercontent.com/111096384/198417540-1c2e45a7-4d47-4617-a3ae-baf9226791b7.png">
+
+On the filtering table you can choose any category to search by. You can search by just one or many.
+Enter what you want to filter by,
+Click "Filter Table" and notice the results show on the right side of the page. 
+
+<img width="1406" alt="Screen Shot 2022-10-27 at 7 38 33 PM" src="https://user-images.githubusercontent.com/111096384/198417760-d1b2e63f-c199-423b-8e23-1591d37dcba4.png">
+
+
+## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+
+I think the site could still be improved. Adding tools such as export would improve the design. I would also reccommend creating pages to navigate to within the webpage vs it all being on one homepage. 
